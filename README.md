@@ -1,2 +1,2 @@
-# 2026-Escuela-de-invierno
-Este repositorio contiene el material del taller "Ciencia de datos con PySpark" presentando en la [9na Escuela de Invierno en Ciencia de Datos y Sistemas Complejos](https://sites.google.com/view/escuela-ciencia-de-datos/p%C3%A1gina-principal)
+# Taller: Ciencia de datos con PySpark
+Este repositorio contiene el material del taller "Ciencia de datos con PySpark" presentando en la [9na Escuela de Invierno en Ciencia de Datos y Sistemas Complejos](https://sites.google.com/view/escuela-ciencia-de-datos/p%C3%A1gina-principal) organizado por la Unidad Académica del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas en el Estado de Yucatán, [IIMAS](https://www.iimas.unam.mx/), [UNAM](https://www.unam.mx/).
